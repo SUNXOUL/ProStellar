@@ -201,15 +201,15 @@
       "mscorlib.dll": "sha256-3H8zsATEgIcRSRoZhWYtgfKT5VniJvhcYxLruf8koAY=",
       "netstandard.dll": "sha256-bbx+pnJNmXZyPqAgESJnWLJsbfuAl0UflLCdl9slPYE=",
       "System.Private.CoreLib.dll": "sha256-pUYF+nr8SzfBMCLc3FM2i\/YivXJlzztdLin+aUsoqP0=",
-      "ProStellar.Shared.dll": "sha256-yOtea\/HlL27GxHsFnCG+FSKzWPdkL5zhxgCuSFXE94c=",
-      "ProStellar.Client.dll": "sha256-eibsCTCpTj0Hjz3AkFF\/4GXvpsLjM2gUkdxThevg+xA="
+      "ProStellar.Shared.dll": "sha256-S6CZhCf1CZdUO\/nC9pAd2fniybUJ3Q5+dwEMCXjj9fQ=",
+      "ProStellar.Client.dll": "sha256-kalSKrCpCIPcnJyl1WgS2e1Wws1WQnC8VBxJtXzJER4="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "ProStellar.Shared.pdb": "sha256-Pk6aBuIOfVzrHCjdVb3NDg9ViHXzlH68GUw0HTGsUws=",
-      "ProStellar.Client.pdb": "sha256-jGT9etzjSCONk8q28QlAYh5VyDGPPkLoyoSYSpyN7zs="
+      "ProStellar.Shared.pdb": "sha256-KVMq0uK+pkCGTn9xtZ7aSYmY0I3G5\/JaBe0AIiNfR7g=",
+      "ProStellar.Client.pdb": "sha256-jgHowLctrmRe2WPZjI3pgUknAyjYq3jTf42kLar1Ku8="
     },
     "runtime": {
       "dotnet.7.0.4.fcwla0aq28.js": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",
